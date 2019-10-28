@@ -1,0 +1,61 @@
+NEWTON SECOND LAW
+
+    Algoritma:
+    1. Tentukan massa benda sebuah mobil dalam satuan kg.
+    2. Tentukan percepatan benda dalam m/2.
+    3. Hitung resultan gaya = massa x percepatan benda.
+    4. Print resultan gaya.
+
+    Pseudocode:
+    1. Set massa with value 600
+    2. Set percepatan with value 2
+    3. Set gaya
+    4. Calculate massa times percepatan, store into gaya.
+    5. Print gaya
+
+
+
+
+TAHUN KABISAT
+
+    Setiap tahun yang bisa dibagi "4" adalah tahun kabisat. 1 tahun sama dengan '365 hari
+    + 6 jam', sehingga sama dengan 365 1/4 hari. 
+    Setiap 4 tahun, 6 jam akan menjadi satu hari (6x4=24 jam). Oleh karena itulah kita
+    memiliki satu hari tambahan pada bulan Februari. 
+
+    1. Jika angka tahun itu habis dibagi 400, maka tahun itu sudah pasti tahun kabisat.
+    2. Jika angka tahun itu tidak habis dibagi 400 tetapi habis dibagi 100, maka tahun itu
+       sudah pasti bukan merupakan tahun kabisat.
+    3. Jika angka tahun itu tidak habis dibagi 400, tidak habis dibagi 100 akan tetapi 
+       habis dibagi 4, maka tahun itu merupakan tahun kabisat.
+    4. Jika angka tahun tidak habis dibagi 400, tidak habis dibagi 100, dan tidak habis 
+       dibagi 4, maka tahun tersebut bukan merupkan tahun kabisat.
+
+       Setiap tahun yang bisa dibagi "4" adalah tahun kabisat. 1 tahun sama dengan '365 
+       hari + 6 jam', sehingga sama dengan 365 1/4 hari.
+       Setiap 4 tahun, 6 jam akan menjadi satu hari (6x4=24 jam). Oleh karena itulah kita
+       memiliki satu hari tambahan pada bulan Februari.
+
+
+
+
+LAUNDRY DAY
+
+    1. Tentukan pakaian yang akan dicuci oleh Foxie.
+    2. Hitung jumlah pakaian yang akan dicuci di mesin cuci oleh Foxie.
+    3. Selama pakaian yang akan dimasukkan ke mesin cuci belum sampai 20 maka Foxie
+       harus melakukan pengulangan menghitung hingga jumlah pakaian tersebut benar.
+    4. Setelah jumlah pakaian sesuai, mesin cuci pun siap dinyalakan untuk mencuci
+       pakaian Foxie tersebut.  
+
+
+
+
+PERIKSA KUKU
+
+    1. Guru harus mempersiapkan gunting kuku sebelum pemeriksaan dimulai.
+    2. Setelah gunting kuku tersedia, guru berkeliling kesetiap meja siswa untuk memeriksa 
+       kuku siswa satu persatu.
+    3. Jika kuku siswa panjang maka siswa akan diberi hukuman oleh guru.
+    4. Jika tidak, sisa tersebut akan diberi pujian oleh guru (guru tersebut akan
+       memuji siswa).
